@@ -6,6 +6,11 @@
   - [](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Administering Microsoft Azure Solution (DP-300) spring 2024</b>
   - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+- <b>Azure Skills</b>
+  - [Creating Severless logic with Azure Function](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/FZK9M3SX?sharingId=2F1AF8DAE3A464C4)
+  - [](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [](https://github.com/joshmadakor1/AD_PS)
+  - [](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>PowerShell</b>
   - [](https://github.com/joshmadakor1/Sentinel-Lab)
   - [](https://github.com/joshmadakor1/Jwipe.PowerShell)
