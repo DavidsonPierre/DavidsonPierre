@@ -8,9 +8,18 @@
   - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Azure Skills</b>
   - [Creating Severless logic with Azure Function](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/FZK9M3SX?sharingId=2F1AF8DAE3A464C4)
-  - [](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [](https://github.com/joshmadakor1/AD_PS)
-  - [](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Executing an Azure Function with Trigger](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/QMQZSJE5?sharingId=2F1AF8DAE3A464C4)
+  - [Develop for storage on CDNs](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/PDW3T5Y4?sharingId=2F1AF8DAE3A464C4)
+  - [Monitor App Performance](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/7QMGKWJZ?sharingId=2F1AF8DAE3A464C4)
+  - [Develop for Azure Cache for Redis](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/EB8C7WFP?sharingId=2F1AF8DAE3A464C4)
+  - [Discovering Azure message queues](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/UWPDPN23?sharingId=2F1AF8DAE3A464C4)
+  - [Implement azure app configuration](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/HFCTNJ68?sharingId=2F1AF8DAE3A464C4)
+  - [Implement shared access signatures](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/9868ZBZU?sharingId=2F1AF8DAE3A464C4)
+  - [Implementing authentication using Microsoft authentication library](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/WYUTXZ7N?sharingId=2F1AF8DAE3A464C4)
+  - [Implementing Azure Key Vault](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/PDV23SU4?sharingId=2F1AF8DAE3A464C4)
+  - [Explore API Management](https://learn.microsoft.com/api/achievements/share/en-us/DavidsonPierre-3263/AVC6CXA7?sharingId=2F1AF8DAE3A464C4)
+- <b>Microsoft Transcript</b>
+  - (https://learn.microsoft.com/en-us/users/davidsonpierre-3263/transcript/7k2z6ijoqyqzok4)
 - <b>PowerShell</b>
   - [](https://github.com/joshmadakor1/Sentinel-Lab)
   - [](https://github.com/joshmadakor1/Jwipe.PowerShell)
